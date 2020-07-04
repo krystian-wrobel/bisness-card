@@ -28,6 +28,10 @@ body {
 .person {
 }
 
+.perscon__description {
+  font-size: 16px;
+  line-height: 22px;
+}
 .person__name {
   font-size: 36px;
   font-weight: normal;
@@ -38,4 +42,14 @@ body {
   font-style: italic;
   margin: 0px;
   color: #545454;
+}
+
+.special {
+  color: #ed6d05;
+  font-weight: normal;
+}
+
+.person__link {
+  color: #e20613;
+  font-weight: normal;
 }
